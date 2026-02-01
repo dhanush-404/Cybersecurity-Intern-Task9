@@ -1,4 +1,4 @@
-# Task 9 – Network Scanning using NMAP(Network Mapper)
+# Network Scanning using NMAP(Network Mapper)
 
 ## Tool
 - Nmap
